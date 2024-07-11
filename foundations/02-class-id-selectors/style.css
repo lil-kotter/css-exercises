@@ -1,0 +1,18 @@
+.my-class {
+    background-color: rgb(248, 146, 163);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#second-element {
+    color:blue;
+    font-size: 36px;
+}
+
+#fourth-element {
+    background-color: mediumspringgreen;
+    font-weight: bold;
+}
